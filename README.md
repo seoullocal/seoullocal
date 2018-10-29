@@ -1,0 +1,2 @@
+# seoullocal
+Blockchain gazua
